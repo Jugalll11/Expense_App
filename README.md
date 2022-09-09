@@ -1,6 +1,6 @@
 # expense_app
 
-A new Flutter project.
+This is a Personal Expense App that is Used to Track your expenses using a List of recent transactions Added by you and A graph widget Which shows the Frequency and amount of your Spending During the last 7 days.
 
 ## Getting Started
 
